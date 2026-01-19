@@ -7,18 +7,18 @@ About me: https://owensanzas.com/
 
 I am interested in:
 
-**LLM Application Development:**
+LLM Application Development:
 
-* [o2lab/afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain)
+* [afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain)
 
-**Cybersecurity & Bug Hunting:**
+Cybersecurity & Bug Hunting:
 
-* [o2lab/afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain)
-* [OwenSanzas/LLM-For-Software-Security](https://github.com/OwenSanzas/LLM-For-Software-Security)
+* [afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain)
+* [LLM-For-Software-Security](https://github.com/OwenSanzas/LLM-For-Software-Security)
 
-**Game Design & Development (Good old JASS for Warcraft3):**
+Game Design & Development (Good old JASS for Warcraft3):
 
-* [OwenSanzas/Evil-Hunter](https://github.com/OwenSanzas/Evil-Hunter)
+* [Evil-Hunter](https://github.com/OwenSanzas/Evil-Hunter)
 
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&hide_border=true&langs_count=8&layout=compact&cache_seconds=86400)
