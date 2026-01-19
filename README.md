@@ -3,9 +3,11 @@
 I love open-source software. I'm a hacker, a singer, and an athlete.
 I'm currently at O2Lab @ Texas A&M University, and I'm a member of Team FuzzingBrain.
 
+About me: https://owensanzas.com/
+
 I am interested in:
 
-LLM Application development:
+LLM Application Development:
   - https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain
 
 Cybersecurity:
