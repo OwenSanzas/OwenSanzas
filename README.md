@@ -3,8 +3,8 @@
 I love open-source software. I'm a hacker, a singer, and an athlete.
 I'm currently at O2Lab @ Texas A&M University, and I'm a member of Team FuzzingBrain.
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itchyny&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itchyny&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
 
 <!--
 **OwenSanzas/OwenSanzas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
