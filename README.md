@@ -10,7 +10,7 @@ I am interested in:
 LLM Application Development:
   - https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain
 
-Cybersecurity:
+Cybersecurity & Bug Hunting:
   - https://github.com/o2lab/afc-crs-all-you-need-is-a-fuzzing-brain
   - https://github.com/OwenSanzas/LLM-For-Software-Security
 
