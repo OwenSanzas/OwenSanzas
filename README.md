@@ -3,7 +3,11 @@
 I love open-source software. I'm a hacker, a singer, and an athlete.
 I'm currently at O2Lab @ Texas A&M University, and I'm a member of Team FuzzingBrain.
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&hide_border=true&langs_count=6&layout=compact&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&hide_border=true&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=OwenSanzas&hide_border=true&background=FFFFFF00&ring=805AD5&fire=805AD5&currStreakLabel=808080&sideLabels=808080&dates=808080)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OwenSanzas&bg_color=ffffff00&hide_border=true&line=805AD5&point=805AD5&color=808080)
 
 
