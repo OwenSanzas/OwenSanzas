@@ -21,9 +21,7 @@ Game Design & Development (Good old JASS for Warcraft3):
 * [Evil-Hunter](https://github.com/OwenSanzas/Evil-Hunter)
 
 
-![Most used languages](https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&hide_border=true&langs_count=8&layout=compact)
-
-![GitHub stats](https://readme-stats-fast.vercel.app/api?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&hide_border=true&v=20260202)
+![Most used languages](https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&hide_border=true&langs_count=8&layout=compact)![GitHub stats](https://readme-stats-fast.vercel.app/api?username=OwenSanzas&show_icons=true&icon_color=805AD5&text_color=808080&bg_color=ffffff00&hide_title=true&hide_border=true&v=20260202)
 
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=OwenSanzas&theme=dark&hide_border=true) 
